@@ -1,0 +1,17 @@
+Variables: Un lugar con nombre único e irrepetible, donde puedes guardar números, letras, oraciones etc.. para después reutilizar cuando lo necesites.
+
+Strings: Se puede decir que es donde todo son oraciones, palabras o conjuntos de letras y números, simplemente encerrándolos entre comillas dobles o simples.
+
+Funciones: La puedes tomar como una función que realiza un aparato eléctrico, en este caso será una cafetera.
+le pones el café y el agua, después de un tiempo te regresa un café caliente.
+	Argumentos: Son los que proporcionas para obtener un resultado, en este caso café y agua.
+	Return: es el valor regresado por tu función cafetera, en este caso Café listo para beber.
+Se debe tener en cuenta que, algunas veces solo espera valor sin pasar algún argumento o parámetro, ejemplo: despachador de agua.
+Declaraciones 'if': Podrá tomarlo como cuando quieres salir, pero tu tutor no te deja porque no has terminado la tarea.
+SÃ­ terminaste la tarea: "Puedes salir".
+
+
+Valores booleanos(true, false):Estos valores solo constan de dos opciones; verdadero o falso, encendido o apagado siempre será uno u otro pero jamás ambos. 
+Vas por un camino recto, aparecen dos letreros izquierda y derecha, puedes tomar un camino solamente.
+
+
