@@ -1,0 +1,4 @@
+for: Está expresión es usada cuando quieres hacer que se repita una parte de tu código tantas veces sea necesario.
+&&: Es un operador lógico, el cual utilizas para poner una condición,donde se desea que, las expresiones a evaluar tengan que ser verdaderas.
+||: Operador lógico, utilizado para una condición, donde se desea que, de las expresiones a evaluar por lo menos una sea verdadera.
+!: Este operador es usado para negación, o mejor dicho, lo positivo lo hace negativo y lo negativo positivo.
