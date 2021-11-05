@@ -1,0 +1,20 @@
+Objetos: contenedores de datos, los cuales contienen más información sobre una sola cosa. 
+Puede ser tal cual un objeto de la vida real, que tiene un nombre, características(propiedades), y puede realizar acciones(métodos)
+
+Propiedades: Son las caracteristicas que tiene un objeto, las cuales guardan un valor de cualquier tipo de dato.
+
+Métodos: Son acciones que relizan los objetos(funciones) para llegar a un resultado, el cual puede ser devuelto o utilizado. 
+
+Bucle 'For in loop': Al igual que el ciclo for, este bucle sirve para iterar en un objeto con mayor facilidad, porque usa pares clave-valor.
+lo que hará es iterar en cada propiedad del objeto, guardando el nombre de la propiedad y el valor en una variable declarada dentro del bucle, para acceder al valor de la propiedad se necesita usar la notación de corchete.
+Ejemplo:
+for(let clave in objeto){
+	console.log(objeto[clave])
+}
+
+Notación de puntos vs notación de corchetes:
+La notación con puntos consiste en, llamar una propiedad de un objeto utilizando el punto, y cuando se tiene por seguro que el nombre de la propiedad es válido. Ejemplo: nombreObjeto.nombrePropiedad.
+La notación con corchetes consiste en llamar una propiedad de un objeto tal cual llamamos a un elemento de una matriz, usando un una palabra entre comillas o un número, teniendo en cuenta que, el nombre de la propiedad 
+puede ser una variable.
+Ejemplo: nombreObjeto['nombrePropiedad'] o nombreObjeto[1]
+
