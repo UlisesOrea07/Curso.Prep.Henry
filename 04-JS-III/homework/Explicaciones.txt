@@ -1,0 +1,2 @@
+Arrays: Es un arreglo o matriz que es usado cuando se requiere guardar datos o conjunto de datos, ordenados en fila.
+por concepto de javascript de no ser fuertemente tipado, no es necesario ponerle un tipo al crear la variable, esta puede contener varios tipos de datos.
