@@ -1,0 +1,6 @@
+Prototype: Es una referencia de un objeto hacia otro objeto, todos los objetos tienen una referencia hacia __proto__ 
+Todos los métodos de los objetos que se requieren construir van en el prototype.
+
+Constructor: Es un método para crear e inicializar un objeto a partir de una cles y es donde van a ir todas las propiedades de un objeto que se quieren construir
+este método puede usar la palabra clave super, para heredar el constructor de una clase padre.
+si no se define un método constructor, se utiliza un constructor predeterminado.
