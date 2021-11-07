@@ -1,0 +1,4 @@
+Callbacks:
+Es cuando pasamos una función dentro de otra función, es decir, una función es argumento de otra función.
+Y se debe tener en cuenta que, la función no debe ser invocada cuando se pasa como parámetro, pues la primera función recibe algo, e invoca otra función y le pasa ese algo como párametro.
+algunos casos de callbacks son: forEach, map(), reduce() y filter()
